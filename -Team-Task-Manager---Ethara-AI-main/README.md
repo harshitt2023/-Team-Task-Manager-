@@ -125,7 +125,7 @@ cd task-manager
 ---
 ### 👨‍💻 Author
 
-- Built with ❤️ by Developer
+- Built by Harshit Singh
 
 ## 📜 License
 
