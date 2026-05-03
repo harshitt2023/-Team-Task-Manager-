@@ -250,16 +250,4 @@ Base URL:
 ---
 
 ## 👨‍💻 Author
-
-**Yuvraj Singh**
-📧 [yuvrajsingh857603@gmail.com](mailto:yuvrajsingh857603@gmail.com)
-
----
-
-## ⭐ Final Note
-
-This project reflects strong fundamentals in **full-stack development, backend design, and scalable architecture**, making it suitable for real-world team collaboration systems.
-
----
-
-⭐ *If you like this project, consider giving it a star!*
+Built my Harshit Singh
